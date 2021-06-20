@@ -1,0 +1,23 @@
+h3{
+    color: var(--bs-primary);
+    font-weight: bold;
+}
+.margin_row{
+    margin-top: 15px;
+}
+.card_article .titre{
+    font-weight: bold;
+    font-size: 18px;
+}
+.card_article .description{
+    font-size: 16px;
+    text-align: justify;
+}
+.card_article .aime{
+    color: var(--bs-primary);
+    text-align: right;
+    text-transform: uppercase;
+}
+.btn_like{
+    cursor: pointer;
+}
